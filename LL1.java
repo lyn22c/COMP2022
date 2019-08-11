@@ -3,7 +3,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class MyProgram {
+public class LL1 {
 	/*
 	 * This program attempts to output the left most derivations steps
 	 * and stack contents for a particular grammar G' (shown in report) 
